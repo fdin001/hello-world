@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelListItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>225</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>180</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>140</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>250</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000111</ID>
+    <Name>Comfort Suites Miami</Name>
+    <Rating>4</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>190</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>140</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>110</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>225</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000222</ID>
+    <Name>Courtyard by Marriot Miami</Name>
+    <Rating>3</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>175</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>130</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>95</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>200</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000333</ID>
+    <Name>Nuvo Suites Miami Airport West Doral</Name>
+    <Rating>2.5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>120</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>100</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>75</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>160</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000444</ID>
+    <Name>Hilton Garden Inn Miami Dolphin Mall</Name>
+    <Rating>1.5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>250</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>210</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>200</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>310</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000555</ID>
+    <Name>Holiday Inn Miami-Doral Area</Name>
+    <Rating>4.5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>130</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>115</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>85</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>180</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000666</ID>
+    <Name>InterContinental At Doral Miami</Name>
+    <Rating>2</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>200</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>160</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>125</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>235</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000777</ID>
+    <Name>Hotel Nuvo Suites</Name>
+    <Rating>3.5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>100</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>160</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>210</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>400</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000888</ID>
+    <Name>Modern Cabin 1</Name>
+    <Rating>5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>99</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>75</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>9.99</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>140</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>000999</ID>
+    <Name>Marriott Residence Inn</Name>
+    <Rating>1.5</Rating>
+  </HotelListItem>
+  <HotelListItem>
+    <Roomlist>
+      <Room>
+        <Type>Single King Bed</Type>
+        <DailyRate>260</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Single Queen Bed</Type>
+        <DailyRate>200</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>Two Double Beds</Type>
+        <DailyRate>150</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+      <Room>
+        <Type>One Bedroom Suite</Type>
+        <DailyRate>280</DailyRate>
+        <Capacity>2</Capacity>
+      </Room>
+    </Roomlist>
+    <ID>111000</ID>
+    <Name>Marriott Private Inn</Name>
+    <Rating>4.5</Rating>
+  </HotelListItem>
+</ArrayOfHotelListItem>

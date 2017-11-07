@@ -1,0 +1,18 @@
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csprojResolveAssemblyReference.cache
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csproj.CoreCompileInputs.cache
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.dll
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.pdb
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.dll
+C:\Users\Daniel R. Gonzalez\Documents\Visual Studio 2017\Projects\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.pdb
+D:\New folder\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.dll
+D:\New folder\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.pdb
+D:\New folder\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csprojResolveAssemblyReference.cache
+D:\New folder\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csproj.CoreCompileInputs.cache
+D:\New folder\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.dll
+D:\New folder\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\bin\Debug\HotelLib.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.csproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Hotel Reservations - Start\HotelLib\obj\Debug\HotelLib.pdb
